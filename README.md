@@ -28,9 +28,9 @@ BJT amplifier and Logic Module
 <div align="center">
   <img src="https://github.com/Marsyleeno/Circuit-Design/blob/main/Equivalent%20Amplifier%20Circuit.jpg" alt="Equivalent Amplifier Circuit">
   <br><br>
-  <img src="[https://github.com/Marsyleeno/Circuit-Design/blob/main/Prototype%20(Breadboard).png" alt="Breadboard Prototype](https://github.com/Marsyleeno/Circuit-Design/blob/main/Amplifier/Prototype%20(Breadboard).png)">
+  <img src="https://github.com/Marsyleeno/Circuit-Design/blob/main/Amplifier/Prototype%20(Breadboard).png">
   <br><br>
-  <img src="https://github.com/Marsyleeno/Circuit-Design/blob/main/Protoype%20(Breadboard%201).png" alt="Breadboard Prototype Alternate View">
+  <img src="https://github.com/Marsyleeno/Circuit-Design/blob/main/Amplifier/Prototype%20(Breadboard%201).png">
 </div>
 
 ---
