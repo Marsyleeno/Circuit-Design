@@ -32,6 +32,5 @@ BJT amplifier and Logic Module
 ---
 
 <div align="center">
-  <video src="https://github.com/Marsyleeno/Circuit-Design/raw/main/Common%20Emitter%20Amplifier.mov" width="100%" controls>
-  </video>
+  https://github.com/user-attachments/assets/3800aa19-edaf-48de-9519-828b363e98aa
 </div>
