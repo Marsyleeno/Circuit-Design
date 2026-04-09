@@ -30,8 +30,7 @@ BJT amplifier and Logic Module
 </div>
 
 ---
-## DEMONSTRATION VIDEO:
 
 <div align="center">
-  https://github.com/user-attachments/assets/3800aa19-edaf-48de-9519-828b363e98aa
+  DEMONSTRATION VIDEO: https://github.com/user-attachments/assets/3800aa19-edaf-48de-9519-828b363e98aa
 </div>
