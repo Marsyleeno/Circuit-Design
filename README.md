@@ -32,6 +32,6 @@ BJT amplifier and Logic Module
 ---
 
 <div align="center">
-  <video src="[https://github.com/Marsyleeno/Circuit-Design/raw/main/Your_Simulation_Video.mov](https://github.com/Marsyleeno/Circuit-Design/raw/refs/heads/main/Common%20Emitter%20Amplifier.mov)" width="100%" controls>
+  <video src="https://github.com/Marsyleeno/Circuit-Design/raw/main/Common%20Emitter%20Amplifier.mov" width="100%" controls>
   </video>
 </div>
