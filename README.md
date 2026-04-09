@@ -13,10 +13,11 @@ BJT amplifier and Logic Module
   <img src="https://github.com/Marsyleeno/Circuit-Design/blob/main/Circuit%20Wizard%20Simulation.png" alt="Circuit Wizard Simulation">
 </div>
 
-<div align="center">
-  DEMONSTRATION VIDEO: https://github.com/user-attachments/assets/3800aa19-edaf-48de-9519-828b363e98aa
-</div>
 ---
+
+<div align="center">
+  download "Simulation of Logic Module" raw file to watch the demonstration 
+</div>
 
 ## Common Emitter Amplifier for Small Signal Analysis
 
