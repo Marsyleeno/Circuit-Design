@@ -28,3 +28,10 @@ BJT amplifier and Logic Module
   <br><br>
   <img src="https://github.com/Marsyleeno/Circuit-Design/blob/main/Protoype%20(Breadboard%201).png" alt="Breadboard Prototype Alternate View">
 </div>
+
+---
+
+<div align="center">
+  <video src="[https://github.com/Marsyleeno/Circuit-Design/raw/main/Your_Simulation_Video.mov](https://github.com/Marsyleeno/Circuit-Design/raw/refs/heads/main/Common%20Emitter%20Amplifier.mov)" width="100%" controls>
+  </video>
+</div>
