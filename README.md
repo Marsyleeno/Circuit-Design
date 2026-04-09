@@ -10,7 +10,7 @@ BJT amplifier and Logic Module
 <div align="center">
   <img src="https://github.com/Marsyleeno/Circuit-Design/blob/main/Logic%20Module%20PCB%20Design.png" alt="Logic Module PCB Design">
   <br><br>
-  <img src="https://github.com/Marsyleeno/Circuit-Design/blob/main/Circuit%20Wizard%20Simulation.png" alt="Circuit Wizard Simulation">
+  <img src="https://github.com/Marsyleeno/Circuit-Design/blob/main/Amplifier/Circuit%20Wizard%20Simulation.png" alt="Circuit Wizard Simulation">
 </div>
 
 ---
